@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="ent">Enter a number</string>
+    <string name="km">Convert to Km</string>
+    <string name="ml">Convert to miles</string>
+    <string name="clear">CLEAR</string>
+    <string name="ok">CONVERT</string>
+</resources>
